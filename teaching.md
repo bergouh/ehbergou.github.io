@@ -6,17 +6,18 @@ header:
 ---
 
 
-masters:
+masters/Predoc:
+-Numerical Optimization at UM6P. 2020-present
 
-- Numerical Optimization at ENSEEIHT
+- Numerical Optimization at ENSEEIHT. 2012-2014
 
 Graduate level:
 
-- Numerical Optimization and Linear Algebra at ISAE
+- Numerical Optimization and Linear Algebra at ISAE. 2012-2014
 
 Undergraduate level:
-
-- Algebra at ENSEEIHT
-- Measure theory at ISAE and Paul Sabatier University
+- Analysis: Measure theory, Convolution, Fourier and Laplace Transforms, Numerical methods of nonlinear equations, methods  for PDEs. 2022-present
+- Algebra at ENSEEIHT. 2012-2014.
+- Measure theory at ISAE and Paul Sabatier University. 2015
 
 

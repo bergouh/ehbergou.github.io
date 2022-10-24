@@ -29,9 +29,9 @@ minimal_mistakes_skin: "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neo
 author:
   name             : "El houcine Bergou"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research scientist at KAUST"
-  location         : "Al Khwarizmi Bldg 1, KAUST"
-  email            : "houcine.bergou@kaust.edu.sa"
+  bio              : "Assistant Professor at UM6P"
+  location         : "UM6P-CS, Hay Moulay Rachid, Ben Guerir"
+  email            : "elhoucine.bergou@um6p.ma"
   uri              :
   bitbucket        :
   foursquare       :

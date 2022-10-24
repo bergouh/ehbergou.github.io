@@ -7,18 +7,19 @@ header:
 
 ##  Articles in Refereed Journals/ Conferences
 
-E. Bergou, Y. Diouane, V. Kungurtsev and C. W. Royer. A subsampling Line-Search Method with Second-Order Results. INFORMS Journal on Optimization. [pdf]
-(https://arxiv.org/pdf/1810.07211.pdf)
+E. Bergou, Y. Diouane, V. Kungurtsev and C. W. Royer. A subsampling Line-Search Method with Second-Order Results. INFORMS Journal on Optimization. [pdf](https://arxiv.org/pdf/1810.07211.pdf)
 
 E. Bergou, M. N. Ndiaye, H. El Hammouti and M. Ghogho Age-of-Updates Optimization for UAV-assisted Networks. IEEE Global Communications Conference (GLOBECOM). [pdf](https://arxiv.org/abs/2209.05370)
 
 E. Bergou, A. Dutta, Y. Xiao, M. Canini and P. Richtárik. Direct Nonlinear Acceleration. EURO Journal on Computational Optimization.[pdf](https://arxiv.org/pdf/1905.11692.pdf)
 
-E. Bergou, H. Xu, C. Y. Ho, A. M. Abdelmoniem, A. Duta, K. Karatsenidis, M. Canini, and P. Kalnis. Compressed communication for distributed deep learning: survey and quantitative evaluation. International Conference on Distributed Computing Systems (ICDCS). [pdf] (https://repository.kaust.edu.sa/bitstream/handle/10754/662495/gradient-compression-survey.pdf?sequence=1&isAllowed=y)
+E. Bergou, H. Xu, C. Y. Ho, A. M. Abdelmoniem, A. Duta, K. Karatsenidis, M. Canini, and P. Kalnis. Compressed communication for distributed deep learning: survey and quantitative evaluation. International Conference on Distributed Computing Systems (ICDCS). [pdf](https://repository.kaust.edu.sa/bitstream/handle/10754/662495/gradient-compression-survey.pdf?sequence=1&isAllowed=y)
 
-E. Bergou, Y. Hong, N. Doucety, H. Zhangy, J. Cranneyy, H. Ltaief, D. Gratadoury, F. Rigauty, and D. Keyes.  Outsmarting the Atmospheric Turbulence for Ground-Based Telescopes Using the Stochastic Levenberg-Marquardt Method. International European Conference on Parallel and Distributed Computing (Euro-Par). [pdf] (https://link.springer.com/chapter/10.1007%2F978-3-030-85665-6_35)
+E. Bergou, Y. Diouane and V. Kungurtsev. Complexity iteration analysis for strongly convex multi-objective optimization using a Newton path-following procedure. Optimization Letters. [pdf](https://link.springer.com/article/10.1007/s11590-020-01623-x)
 
-E. Bergou, Y. Diouane, V. Kungurtsev and C. Royer. A Nonmonotone Matrix-Free Algorithm for Nonlinear Equality-Constrained Inverse Problems. SIAM Journal on Scientific Computing (SISC). [pdf] (https://arxiv.org/pdf/2006.16340.pdf)
+E. Bergou, Y. Hong, N. Doucety, H. Zhangy, J. Cranneyy, H. Ltaief, D. Gratadoury, F. Rigauty, and D. Keyes.  Outsmarting the Atmospheric Turbulence for Ground-Based Telescopes Using the Stochastic Levenberg-Marquardt Method. International European Conference on Parallel and Distributed Computing (Euro-Par). [pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-85665-6_35)
+
+E. Bergou, Y. Diouane, V. Kungurtsev and C. Royer. A Nonmonotone Matrix-Free Algorithm for Nonlinear Equality-Constrained Inverse Problems. SIAM Journal on Scientific Computing (SISC). [pdf](https://arxiv.org/pdf/2006.16340.pdf)
 
 E. Bergou, E. Gorbunov and P. Richtárik. Stochastic Three Points Method for Unconstrained
 Minimization. SIAM Journal on Optimization (SIOPT).[pdf](https://arxiv.org/pdf/1902.03591.pdf)

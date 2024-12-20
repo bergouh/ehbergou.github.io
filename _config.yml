@@ -27,10 +27,10 @@ minimal_mistakes_skin: "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neo
 
 # Site Author
 author:
-  name             : "El houcine Bergou"
+  name             : "El Houcine Bergou"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor at UM6P"
-  location         : "UM6P-CS, Ben Guerir"
+  location         : "UM6P-CC, Ben Guerir"
   email            : "elhoucine.bergou@um6p.ma"
   uri              :
   bitbucket        :
